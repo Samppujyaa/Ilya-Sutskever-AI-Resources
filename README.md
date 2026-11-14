@@ -2,9 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Markdown](https://img.shields.io/badge/format-Markdown-000000.svg)](https://www.markdownguide.org/)
 
-> A beginner-friendly, chronological roadmap from foundational mathematics and neural networks to modern large language model architectures.
-
-## 📚 Introduction
+## Introduction
 
 There is a well-known piece of AI lore about a conversation between **Ilya Sutskever** and **John Carmack**. Ilya shared a compact list of roughly 30 papers and suggested that truly understanding them would cover **“90% of what matters”** in modern artificial intelligence.
 
@@ -12,7 +10,7 @@ The list is powerful—but it is also dense, mathematical, and difficult to appr
 
 The mission is simple: **bridge the gap between curiosity and comprehension**. You do not need to be an expert mathematician or experienced researcher to begin. Follow the sequence, build intuition before diving into formalism, and use each phase as a foundation for the next.
 
-## 🧭 Table of Contents
+## Table of Contents
 
 - [The Roadmap](#-the-roadmap)
   - [Phase 1: Prerequisites](#phase-1-prerequisites)
@@ -26,7 +24,7 @@ The mission is simple: **bridge the gap between curiosity and comprehension**. Y
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## 🗺️ The Roadmap
+## The Roadmap
 
 Work through the phases in order, or use the checkboxes to create your own study log.
 
@@ -96,7 +94,7 @@ Finish by studying why modern models improve with scale and how information-theo
 - [ ] Study the **Minimum Description Length (MDL) principle** and its connection to compression and generalization.
 - [ ] Reflect on how scaling, data quality, architecture, and inference-time computation interact.
 
-## 🧑‍💻 How to Use This Guide
+## How to Use This Guide
 
 1. **Follow the sequence.** Each phase introduces ideas that make the next phase easier.
 2. **Learn actively.** Reimplement small pieces, draw diagrams, and explain concepts in your own words.
@@ -104,9 +102,9 @@ Finish by studying why modern models improve with scale and how information-theo
 4. **Keep a study log.** Check off topics only when you can describe the core idea and its motivation without copying the paper.
 5. **Expect multiple passes.** Difficult papers become much clearer after you have built the relevant intuition and code.
 
-> 💡 **Beginner's Tip:** Don't read papers front-to-back on the first try. Skip the heavy math initially and focus on the architecture, the problem being solved, and the conclusions. Come back for the details once the big picture is familiar.
+> **Beginner's Tip:** Don't read papers front-to-back on the first try. Skip the heavy math initially and focus on the architecture, the problem being solved, and the conclusions. Come back for the details once the big picture is familiar.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Help make this roadmap more useful and approachable by submitting:
 
@@ -117,7 +115,7 @@ Contributions are welcome! Help make this roadmap more useful and approachable b
 
 Please keep contributions educational, reproducible, and respectful. Open an issue for a larger proposal, or submit a pull request with a focused change and a short explanation of what it adds.
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for the full text.
 
